@@ -1,4 +1,5 @@
-﻿using GitCommands;
+﻿using GitCommands;git clone https://github.com/samiehke/samiehke.github.io
+
 using GitUI.Properties;
 
 namespace GitUI.Shells
